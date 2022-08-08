@@ -11,9 +11,9 @@ title                    : "Haoli Yin"
 title_separator          : "-"
 name                     : &name "Haoli Yin"
 description              : &description "Sophomore at Vanderbilt University"
-url                      : https://haoli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Nano1337.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Nano1337/haoli.github.io"
+repository               : "Nano1337/Nano1337.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
