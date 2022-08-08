@@ -1,43 +1,57 @@
 - title: Research Assistant
-  date: Aug 2020 - Aug 2021
-  organization: Iowa State University, Program Analysis Lab
-  location: Ames, IA
+  date: Nov 2021 - Present
+  organization: Vanderbilt University, Bowden Biomedical Optics Lab
+  location: Nashville, TN
   text: |
     <ul>
-    <li>Contributing author, “Validating static warnings via testing code fragments” (ISSTA 2021, top conference).</li>
-    <li>Collaborated with CERT group @ Carnegie-Mellon Software Engineering Institute.</li>
-    <li>Created a toolkit for dynamic analysis and code generation (pal-tools) for use in experiments.</li>
-    <li>Acquired and maintained bug benchmarks for use in experiments.</li>
+    <li><b>First author</b>, “SpecFlow: A Specular Reflection Restoration Framework using Flow-Guided Video Completion” (Manuscript in progress).</li>
+    <li>Engineered a <b><a href="https://github.com/Nano1337/SpecLab">state-of-the-art ASPP model</a></b> with optimal hyperparameters to detect specular reflection in endoscopy videos with <b>92.8% Dice Score - <a href="https://huggingface.co/spaces/Nano1337/SpecLab">DEMO</a></b> </li>
+    <li>Leveraged <b><a href="https://github.com/Nano1337/E2FGVI">state-of-the-art vision transformer model</a></b> (for optical flow-guided video inpainting) to the domain-specific application of restoring detected specular reflection regions</li>
+    <li><u>Tech Stack</u>: Anaconda, Git, Gradio, Hydra, HuggingFace, Jupyter Notebook, Linux Ubuntu, MATLAB, Numpy, OpenCV, Optuna, PyTorch/Lightning, Python3, W&B, YAML</li>
     </ul>
 
-- title: Teaching Assistant
-  date: Jan 2020 - May 2020
-  organization: "Iowa State University, COM S 227: Object-oriented Programming (Java)"
-  location: Ames, IA
+- title: Data Science Intern
+  date: May 2022 - July 2022
+  organization: Lynntech Inc.
+  location: College Station, TX
   text: |
     <ul>
-    <li>Instructed and mentored 30 students in weekly labs and office hours.</li>
-    <li>Volunteered to create a GUI visualization for Conway's Game of Life to increase student engagement (link).</li>
+      <li>AirForce GPU-accelerated State Estimation:
+        <ul>
+        <li>Designed and implemented backend <b>engine architecture</b> by translating MATLAB code to C++</li>
+        <li>Engineered MVP from scratch in C++ using single GPU to <b>reduce runtime by 21.8%</b> compared to MATLAB</li>
+        <li>Wrote 20+ GPU-accelerated linear algebra utility functions in C++ with corresponding unit tests</li>
+        <li><u>Tech Stack</u>: C++, CUDA wrapper (MAGMA), GTest, Gitlab, Linux Ubuntu, MATLAB, Matplotlib, Python</li>
+        </ul>
+      </li>
+      <li>Navy Fooling Classifiers using Adversarial Patterns:
+        <ul>
+        <li>Validated <b>20+ adversarial ML patterns' </b> effectiveness on 30+ state-of-the-art PyTorch classification model</li>
+        <li>Collected 20+ videos of scale vehicle model data from a lightbox camera setup</li>
+        <li><u>Tech Stack</u>: Anaconda, Jupyter Notebook, Linux Ubuntu, NumPy, OpenCV, Pandas, PyTorch, Python3</li>
+        </ul>
+      </li>
     </ul>
 
-- title: Software Developer Intern
-  date: 2018 - 2021
-  organization: Ag Leader Technology, AgFiniti team
-  location: Ames, IA
+- title: Software Engineering Intern
+  date: Dec 2020 - May 2021
+  organization: Arion Blue LLC
+  location: Houston, TX
   text: |
     <ul>
-    <li>Fall 2021: Responsible for adding GIS capability for address geolocation and remote sensing imagery.</li>
-    <li>Summer 2020: Developed full-farm integration with John Deere data platform (link).</li>
-    <li>Summer 2019: Implemented modern reactive satellite mapping interface with Javascript/Vue.</li>
-    <li>Summer 2018: Maintained domain-specific fertilizer prescription language using Antlr parser generator.</li>
+    <li>Coordinated metadata collection on a Software-Defined Network using information from 20+ literature reviews </li>
+    <li>Trained a Proximal Policy Optimization <b>RL model</b> on a custom-made environment to predict the best Azure Files storage tier to place data based on daily size and read/write frequencies</li>
+    <li>Optimized file archival process and minimized data storage costs by <b>74%</b> during backtesting</li>
+    <li><u>Tech Stack</u>: Git, Gym, Jupyter Notebook, Matplotlib, NumPy, Python, SQL, Stable-Baselines3</li>
     </ul>
 
-- title: Freelance Software Developer
-  date: Aug 2019 - Aug 2021
-  organization: Roney Innovations (ecommerce retailer)
-  location: Des Moines, IA
+- title: Data Science Researcher
+  date: June 2020 - Aug 2020
+  organization: Summer STEM Institute
+  location: Remote
   text: |
     <ul>
-    <li>Collaborated with 2 other developers to create Amazon product listing web app using C#, ASP.NET Core, SQL Server, and Azure cloud services.</li>
-    <li>Developed custom shipping manifest processing utility with Python.</li>
+    <li>Built an <b>explainable AI</b> pipeline to assess prostate tumor detection from mpMRI scans with Logistic Regression, Support Vector Machine, Random Forest, XGBoost, and PyTorch CNN with saliency mapping for each of three prostate zones. </li>
+    <li><b>Published paper </b> “Prostate Lesion Detection and Salient Feature Assessment Using Zone-Based Classifiers” in the Summer STEM Institute Journal, selected as 1 or 5 papers out of 80+ submissions</li>
+    <li><u>Tech Stack</u>: Git, HDF5, Jupyter Notebook, PyTorch, Python, Sci-kit Learn</li>
     </ul>

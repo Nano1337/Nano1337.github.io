@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Ph.D. student seeking machine learning internship.
-Research interests are the intersection of machine learning and software engineering.
-Experience in deep learning, machine learning, data scraping, program analysis, and software development.
-
+Undergraduate student seeking machine learning internship.
+Research interests are the intersection of machine learning and biomedical engineering.
+Experience in deep learning, machine learning, data collection, domain application, and software development.
+<b><a href="https://drive.google.com/file/d/1FNiLDuS5AYGpjZpDHahSQJ7h6ru2rEls/view?usp=sharing">Download Resume</a></b>
 
 # Education
 {% for position in site.data.cv_education %}
@@ -38,21 +38,22 @@ Experience in deep learning, machine learning, data scraping, program analysis, 
 
 
 # Selected Projects
-* [cfactor](https://github.com/bstee615/cfactor): Scalable, policy-driven refactoring for C programs (Python/srcML)
-* [animal](https://github.com/animal-cognitive/AnimalAI-Olympics/tree/feature/whole-cache-agent)-cognitive: Deep reinforcement learning models with embodied animal cognition (PyTorch/rllib)
-* [rarl](https://github.com/bstee615/rarl): Reproduction of “Robust Adversarial Reinforcement Learning” (PyTorch/stable-baselines)
-* [pal-tools](https://github.com/bstee615/pal-tools): Dynamic analysis and code generation, using Intel Pin (C++) and LLVM (Python)
-* [precise-interrupts](https://github.com/isu-cpre581-pangolin/gem5/tree/sleepy): Reproducing a historical interrupt handling paper in ARM architecture, using gem5 (C++)
+* [pcavision](https://github.com/bstee615/cfactor): Code repository for the paper "Prostate Lesion Detection and Salient Feature Assessment Using Zone-Based Classifiers" (Python/OpenCV)
+* [LeetCode Practice](https://github.com/Nano1337/LeetCodePractice): Record of completed LeetCode questions (Python/C++)
+* [PyTorch Practice](https://github.com/Nano1337/PytorchPractice): Learn PyTorch with me! (PyTorch/OpenCV)
+* [hotcold optimize](https://github.com/Nano1337/HotColdOptimize): Code repository for my reinforcement learning project at Arion in optimizing cloud storage based on user behavior (PyTorch/stable-baselines3)
 
+# Honors
+* Cornelius Vanderbilt Scholar (Full-Tuition), Fall 2021 - Present
+* Equitable Excellence $10k Scholarship, Fall 2021 - Present
+* National Merit Scholar, Fall 2021 - Present
 
 # Technical Skills
-* Programming Languages: Proficient in Python and C#. Knowledge of C++, Java, JavaScript, SQL.
-* Machine Learning & data scraping: PyTorch, rllib, pandas, numpy, Selenium, beautifulsoup.
-* Web Development: Vue, ASP.NET Core, .NET Framework, SQL Server, Azure Functions, ACI, VMs, ML Studio.
-* Computer architecture and program analysis: Antlr, LLVM, Intel Pin, gem5, abstract interpretation, fuzzing.
-* DevOps: Git, Azure DevOps, and CI/CD, Slurm batch processing, Linux server administration.
-
+* Programming Languages: Proficient in Python and C++. Knowledge of MATLAB, Java, JavaScript, SQL
+* Machine/Deep Learning: PyTorch, OpenCV, Pandas, NumPy, Matplotlib, Optuna
+* Web Development: HTML, CSS, Gradio, HuggingFace
+* DevOps: Hydra, Git, Linux Ubuntu, Weights & Biases
 
 # Leadership
-* Science education outreach at Greenville County Juvenile Detention, Fall 2018/Spring 2019
-* Vice president of Phi Beta Chi society, Spring 2018
+* Sponsorship Coordinator @ VandyHacks, Feb 2022 - Present
+* Viola Section Leader @ Vanderbilt Commodore Orchestra, Sept 2021 - Present
