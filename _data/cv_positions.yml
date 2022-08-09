@@ -52,6 +52,6 @@
   text: |
     <ul>
     <li>Built an <b>explainable AI</b> pipeline to assess prostate tumor detection from mpMRI scans with Logistic Regression, Support Vector Machine, Random Forest, XGBoost, and PyTorch CNN with saliency mapping for each of three prostate zones. </li>
-    <li><b>Published paper </b> “Prostate Lesion Detection and Salient Feature Assessment Using Zone-Based Classifiers” in the Summer STEM Institute Journal, selected as 1 or 5 papers out of 80+ submissions</li>
+    <li><b><a href="https://uploads-ssl.webflow.com/5e794b0c84a092906ffe9ad2/6181d3de75bd9f441452fa0a_Haoli_Yin_2020_paper..pdf">Published paper</a> </b> “Prostate Lesion Detection and Salient Feature Assessment Using Zone-Based Classifiers” in the Summer STEM Institute Journal, selected as 1 or 5 papers out of 80+ submissions</li>
     <li><u>Tech Stack</u>: Git, HDF5, Jupyter Notebook, PyTorch, Python, Sci-kit Learn</li>
     </ul>
