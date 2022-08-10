@@ -14,6 +14,8 @@ redirect_from:
 
 # Research Interests
 My research interests lie at the intersection of machine learning and medical imaging. I'm fascinated about the practical applications of artificial intelligence in automation and as an aid to work more efficiently. I hope to use my experience in full-cycle machine learning model development to create end-to-end solutions in better understanding medical images and video. Ultimately, I want to help with the clinical translation of novel methods from academia into the real world. 
+# Other Interests
+Besides work, I'm passionate about viola (I play in Vandy's non-major orchestra), badminton, cooking
 
 # Newest Posts
 {% include newposts.html %}
