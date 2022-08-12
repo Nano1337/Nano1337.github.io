@@ -15,6 +15,7 @@ Most of machine learning development originates from academia, which is often ve
 
 ## What is HuggingFace and Gradio
 ![Gradio and HuggingFace Logos](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1u64v34tov7a3tdqitrz.png) 
+
 No, HuggingFace is not those face grabbers from the movie [Aliens](https://en.wikipedia.org/wiki/Aliens_(film)) (although that's what I first thought it was). It's actually the hugging emoji that's now at the top of my most-used emoji keyboard list! HuggingFace is not only a hub for ML models and demos but also a Python library that allows anyone to create and train select model architectures without having to write it all from scratch (e.g. transformers). For our case, HuggingFace Spaces allows us to freely host our model for public deployment without any extra fees, full-stack development knowledge, or headaches using other platforms. Note that demoing using GPU does cost extra, so I will be showing a CPU-only example. 
 
 Gradio, on the other hand, is the Python library that allows for user-friendly functions and front-end development using a single line of code. This interface can be used to create simple visual demos like mine (link in next paragraph) to complex interfaces like [this one](https://huggingface.co/spaces/skytnt/full-body-anime-gan).
