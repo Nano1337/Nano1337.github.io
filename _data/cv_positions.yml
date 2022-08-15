@@ -5,7 +5,7 @@
   text: |
     <ul>
     <li><b>First author</b>, “SpecFlow: A Specular Reflection Restoration Framework using Flow-Guided Video Completion” (Manuscript in progress).</li>
-    <li>Engineered a <b><a href="https://github.com/Nano1337/SpecLab">state-of-the-art ASPP model</a></b> with optimal hyperparameters to detect specular reflection in endoscopy videos with <b>92.8% Dice Score - <a href="https://huggingface.co/spaces/Nano1337/SpecLab">DEMO</a></b> </li>
+    <li>Engineered a <b><a href="https://github.com/Nano1337/SpecLab">state-of-the-art ASPP model</a></b> with optimal hyperparameters to detect specular reflection in endoscopy videos with <b>92.8% Dice Score - Contact me for Demo </b> </li>
     <li>Leveraged <b><a href="https://github.com/Nano1337/E2FGVI">state-of-the-art optical flow estimation & image inpainting models </a></b> to the domain-specific application of restoring detected specular reflection regions in a temporally consistent manner</li>
     <li><u>Tech Stack</u>: Anaconda, Git, Gradio, Hydra, HuggingFace, Jupyter Notebook, Linux Ubuntu, MATLAB, Numpy, OpenCV, Optuna, PyTorch/Lightning, Python3, W&B, YAML</li>
     </ul>
@@ -55,3 +55,5 @@
     <li><b><a href="https://uploads-ssl.webflow.com/5e794b0c84a092906ffe9ad2/6181d3de75bd9f441452fa0a_Haoli_Yin_2020_paper..pdf">Published paper</a> </b> “Prostate Lesion Detection and Salient Feature Assessment Using Zone-Based Classifiers” in the Summer STEM Institute Journal, selected as 1 or 5 papers out of 80+ submissions</li>
     <li><u>Tech Stack</u>: Git, HDF5, Jupyter Notebook, PyTorch, Python, Sci-kit Learn</li>
     </ul>
+
+
