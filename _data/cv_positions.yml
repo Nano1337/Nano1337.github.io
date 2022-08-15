@@ -6,7 +6,7 @@
     <ul>
     <li><b>First author</b>, “SpecFlow: A Specular Reflection Restoration Framework using Flow-Guided Video Completion” (Manuscript in progress).</li>
     <li>Engineered a <b><a href="https://github.com/Nano1337/SpecLab">state-of-the-art ASPP model</a></b> with optimal hyperparameters to detect specular reflection in endoscopy videos with <b>92.8% Dice Score - <a href="https://huggingface.co/spaces/Nano1337/SpecLab">DEMO</a></b> </li>
-    <li>Leveraged <b><a href="https://github.com/Nano1337/E2FGVI">state-of-the-art vision transformer model</a></b> (for optical flow-guided video inpainting) to the domain-specific application of restoring detected specular reflection regions</li>
+    <li>Leveraged <b><a href="https://github.com/Nano1337/E2FGVI">state-of-the-art optical flow estimation & image inpainting models </a></b> to the domain-specific application of restoring detected specular reflection regions in a temporally consistent manner</li>
     <li><u>Tech Stack</u>: Anaconda, Git, Gradio, Hydra, HuggingFace, Jupyter Notebook, Linux Ubuntu, MATLAB, Numpy, OpenCV, Optuna, PyTorch/Lightning, Python3, W&B, YAML</li>
     </ul>
 
@@ -39,7 +39,7 @@
   location: Houston, TX
   text: |
     <ul>
-    <li>Coordinated metadata collection on a Software-Defined Network using information from 20+ literature reviews </li>
+    <li>Coordinated metadata collection on a Software-Defined Network using information from 20+ literature reviews to use as a benchmark dataset</li>
     <li>Trained a Proximal Policy Optimization <b>RL model</b> on a custom-made environment to predict the best Azure Files storage tier to place data based on daily size and read/write frequencies</li>
     <li>Optimized file archival process and minimized data storage costs by <b>74%</b> during backtesting</li>
     <li><u>Tech Stack</u>: Git, Gym, Jupyter Notebook, Matplotlib, NumPy, Python, SQL, Stable-Baselines3</li>
