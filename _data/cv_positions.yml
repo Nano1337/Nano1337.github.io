@@ -4,9 +4,9 @@
   location: Nashville, TN
   text: |
     <ul>
-    <li><b>First author</b>, “SpecFlow: A Specular Reflection Restoration Framework using Flow-Guided Video Completion” (Manuscript in progress) - <b>Contact me for a Demo<\b>.</li>
-    <li>Engineered a <b><a href="https://github.com/Nano1337/SpecLab">state-of-the-art ASPP model</a></b> with optimal hyperparameters to detect specular reflection in endoscopy videos with <b>92.8% Dice Score</b> and increased sensitivity by <b>52.3%<\b> as compared to previous state-of-the-art U-net models </li>
-    <li>Leveraged <b><a href="https://github.com/Nano1337/E2FGVI">state-of-the-art optical flow estimation & vision transformer models </a></b> to restore specular reflection regions with an <b>increased 16.8% PSNR and 10.1% SSIM metrics<\b> as compared to previous state-of-the-art spatial inpainting methods</li>
+    <li><b>First author</b>, “SpecFlow: A Specular Reflection Restoration Framework using Flow-Guided Video Completion” (Manuscript in progress) - <b>Contact me for a Demo</b></li>
+    <li>Engineered a <b><a href="https://github.com/Nano1337/SpecLab">state-of-the-art ASPP model</a></b> with optimal hyperparameters to detect specular reflection in endoscopy videos with <b>92.8% Dice Score</b> and increased sensitivity by <b>52.3%</b> as compared to previous state-of-the-art U-net models </li>
+    <li>Leveraged <b><a href="https://github.com/Nano1337/E2FGVI">state-of-the-art optical flow estimation & vision transformer models </a></b> to restore specular reflection regions with an <b>increased 16.8% PSNR and 10.1% SSIM metrics</b> as compared to previous state-of-the-art spatial inpainting methods</li>
     <li><u>Tech Stack</u>: Anaconda, Git, Gradio, Hydra, HuggingFace, Jupyter Notebook, Linux Ubuntu, MATLAB, Numpy, OpenCV, Optuna, PyTorch/Lightning, Python3, W&B, YAML</li>
     </ul>
 
