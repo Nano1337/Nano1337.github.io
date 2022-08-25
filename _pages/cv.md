@@ -38,7 +38,7 @@ Experience in deep learning, machine learning, data collection, domain applicati
 
 
 # Selected Projects
-* [pcavision](https://github.com/bstee615/cfactor): Code repository for the paper "Prostate Lesion Detection and Salient Feature Assessment Using Zone-Based Classifiers" (Python/OpenCV)
+* [pcavision](https://github.com/Nano1337/pcavision): Code repository for the paper "Prostate Lesion Detection and Salient Feature Assessment Using Zone-Based Classifiers" (Python/OpenCV)
 * [LeetCode Practice](https://github.com/Nano1337/LeetCodePractice): Record of completed LeetCode questions (Python/C++)
 * [PyTorch Practice](https://github.com/Nano1337/PytorchPractice): Learn PyTorch with me! (PyTorch/OpenCV)
 * [hotcold optimize](https://github.com/Nano1337/HotColdOptimize): Code repository for my reinforcement learning project at Arion in optimizing cloud storage based on user behavior (PyTorch/stable-baselines3)
