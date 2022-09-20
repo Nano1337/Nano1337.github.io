@@ -12,7 +12,7 @@ redirect_from:
 Undergraduate student seeking machine learning internship.
 Research interests are the intersection of machine learning and biomedical engineering.
 Experience in deep learning, machine learning, data collection, domain application, and software development.
-<b><a href="https://drive.google.com/file/d/1FNiLDuS5AYGpjZpDHahSQJ7h6ru2rEls/view?usp=sharing">Download Resume</a></b>
+<b><a href="https://drive.google.com/file/d/1gCqYXq1NJZgrT_kv-Y0XYkOrMrgzJRea/view?usp=sharing">View Resume</a></b>
 
 # Education
 {% for position in site.data.cv_education %}
