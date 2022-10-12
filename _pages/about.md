@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-* I'm an Undergraduate Student at Vanderbilt University, majoring in CS and minoring in Applied Math and Neuroscience.
+* I'm an accelerated MS/BS student majoring in CS at Vanderbilt University and minoring in Applied Math and Data Science.
 * I'm working as a Research Assistant at the [Bowden lab](https://lab.vanderbilt.edu/bowdenlab/), studying under Dr. Audrey Bowden.
-* I have a couple years of full-cycle machine learning development/software engineering experience with `PyTorch` and `C++`, in the domains of government defense at [Lynntech](https://www.lynntech.com/) and cloud storage optimization at [Arion](https://www.arionblue.com/).
+* I have a couple years of full-cycle machine learning development/software engineering experience with `PyTorch` and `C++`, in the domains of government defense at [Lynntech](https://www.lynntech.com/) and healthcare computer vision at [Yoomi](https://yoomi.health/).
 
 # Research Interests
 My research interests lie at the intersection of machine learning and medical imaging. I'm fascinated about the practical applications of artificial intelligence in automation and as an aid to work more efficiently. I hope to use my experience in full-cycle machine learning model development to create end-to-end solutions in better understanding medical images and video. Ultimately, I want to help with the clinical translation of novel methods from academia into the real world. 
 # Other Interests
-Besides work, I'm passionate about viola (I play in Vandy's non-major orchestra), badminton, cooking
+When I'm not busy working, I'm:
+* Playing viola as section leader in the Vanderbilt Commodore Orchestra (Ask me about the Studio Ghibli suite!)
+* Surfing research Twitter keeping up daily ML breakthroughs
+* Playing Badminton 
+* Cooking Chinese food and Baking cookies
+* Watching Spy x Family 
 
 # Newest Posts
 {% include newposts.html %}
