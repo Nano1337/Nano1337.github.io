@@ -18,9 +18,10 @@ My research interests lie at the intersection of machine learning and medical im
 When I'm not busy working, I'm:
 * Playing viola as section leader in the Vanderbilt Commodore Orchestra (Ask me about the Studio Ghibli suite!)
 * Surfing research Twitter keeping up daily ML breakthroughs
+* Listening to music (I'm a big fan of [NIKI](https://open.spotify.com/playlist/37i9dQZF1DWT47jrFbmL3z?si=e0134c75caa14969), [Sundial] (https://open.spotify.com/playlist/0XzQPRIVtZxCEaqmNRN8cs?si=dc8d6700d92c4f9c), and [Ed Sheeran](https://open.spotify.com/playlist/37i9dQZF1DWWxPM4nWdhyI?si=6d5cf70ceaa64a05))
 * Playing Badminton 
 * Cooking Chinese food and Baking cookies
-* Watching Spy x Family 
+* Watching Spy x Family and other Anime
 
 # Newest Posts
 {% include newposts.html %}
