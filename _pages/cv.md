@@ -44,9 +44,14 @@ Experience in deep learning, machine learning, data collection, domain applicati
 * [hotcold optimize](https://github.com/Nano1337/HotColdOptimize): Code repository for my reinforcement learning project at Arion in optimizing cloud storage based on user behavior (PyTorch/stable-baselines3)
 
 # Honors
-* Cornelius Vanderbilt Scholar (Full-Tuition), Fall 2021 - Present
-* Equitable Excellence $10k Scholarship, Fall 2021 - Present
-* National Merit Scholar, Fall 2021 - Present
+* SPIE Photonics West 2023 Speaker (Accepted)
+* Cornelius Vanderbilt Scholar (2021 - Present)
+* Equitable Excellence $10k Scholarship (2021)
+* National Merit Scholar (2021)
+* Coca-Cola Scholarship Semifinalist (2020)
+* Science Olympiad National Medalist (2019-2021)
+* USA Biology Olympiad Semifinalist (2018-2020)
+
 
 # Technical Skills
 * Programming Languages: Proficient in Python and C++. Knowledge of MATLAB, Java, JavaScript, SQL
