@@ -4,7 +4,7 @@
   location: Ithaca, NY
   text: |
     <ul>
-    <li>Build model training, evaluation, and inference pipeline for <b>state-of-the-art pose estimation model</b> for pre-seed physical therapy startup as <b>data science hire #3</b></li>
+    <li>Train <b>state-of-the-art pose estimation model</b> on COCO human pose dataset to achieve <b>98% pose accuracy</b> and <b>brainstorm experiments</b> for pre-seed physical therapy startup as <b>data science hire #3</b></li>
     <li>Improve pose estimation model for <b>real-time inference</b> by experimenting and choosing most <b>efficient model architecture</b></li>
     <li><u>Tech Stack</u>: Jupyter Notebook, Matplotlib, NumPy, OpenCV, PyTorch, Python3, Ubuntu Linux, W&B</li>
     </ul>
