@@ -55,5 +55,8 @@ Experience in deep learning, machine learning, data collection, domain applicati
 * DevOps: Hydra, Git, Linux Ubuntu, Weights & Biases
 
 # Leadership
+{% for position in site.data.cv_leadership %}
+  {% include cv_position.html %}
+{% endfor %}
 * Sponsorship Coordinator @ VandyHacks, Feb 2022 - Present
 * Viola Section Leader @ Vanderbilt Commodore Orchestra, Sept 2021 - Present
