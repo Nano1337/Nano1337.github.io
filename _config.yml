@@ -220,10 +220,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _readings
   - scope:
-      path: ""
-      type: portfolio
+      path: "/readings"
+      type: readings
     values:
       layout: single
       author_profile: true
@@ -231,7 +231,7 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: ""
+      path: "/talks"
       type: talks
     values:
       layout: talk
