@@ -12,6 +12,7 @@ redirect_from:
 Vanderbilt student seeking research engineering internship.
 Research interests are computer vision applied to fields of medical imaging and defense.
 Experience in deep learning, machine learning, data collection, domain application, and software development.
+<b><a href="https://drive.google.com/file/d/1YsQh6S7XNqVd5_8Qw-5O1NTGYMAV6CeP/view?usp=sharing">View CV</a></b> |
 <b><a href="https://drive.google.com/file/d/10ApYK1SxeYPjTSCy-3zC7kUrU3N93iV2/view?usp=sharing">View Resume</a></b>
 
 # Education
