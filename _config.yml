@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "profile.png"
+  avatar           : "profile_new.png"
   bio              : *description
   location         : # "Nashville, TN"
   employer         : "Vanderbilt University"
