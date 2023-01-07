@@ -1,6 +1,5 @@
 ---
-layout: single
-title: "Contact Me"
+layout: default
 permalink: /contactme/
 author_profile: true
 ---
