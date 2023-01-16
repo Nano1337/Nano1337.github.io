@@ -24,6 +24,6 @@ Cal("inline", {
   calLink: "haoliyin/30min"
 });
 
-Cal("ui", {"styles":{"branding":{"brandColor":"#000000"}},"hideEventTypeDetails":false});
+Cal("ui", {"theme":"light","styles":{"branding":{"brandColor":"#000000"}},"hideEventTypeDetails":false});
 </script>
 <!-- Cal inline embed code ends -->
